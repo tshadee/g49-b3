@@ -1,0 +1,8 @@
+.build
+.mbed
+projectfiles
+*.py*
+BUILD
+mbed-os
+C12832
+QEI
